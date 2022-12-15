@@ -1,4 +1,4 @@
-[![Header](https://github.com/Shindos-Kopernik/Shindos-Kopernik/blob/main/assets/4482749.png)]
+![Header](https://github.com/Shindos-Kopernik/Shindos-Kopernik/blob/main/assets/4482749.png)
 
 About me
 
