@@ -4,7 +4,13 @@ About me
 ### I am a CCTV and computer network engineer. I am learning the Golang programming language.
 Latest YouTube video
 
-Languges and Tools
+Languages and Tools
+
+![Golang](https://img.shields.io/badge/-Go-124A6A?style=for-the-badge&logo=Go&logoColor=770304)
+![Docker](https://img.shields.io/badge/-Docker-124A6A?style=for-the-badge&logo=Docker&logoColor=73CEF0)
+![Network](https://img.shields.io/badge/-Network-124A6A?style=for-the-badge&logo=Network&logoColor=73CEF0)
+![CCTV](https://img.shields.io/badge/-CCTV-124A6A?style=for-the-badge&logo=CCTV&logoColor=73CEF0)
+
 
 Follow Me
 
