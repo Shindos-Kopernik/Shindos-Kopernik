@@ -13,6 +13,8 @@ Languages and Tools
 
 
 Follow Me
+![Telegram](https://img.shields.io/badge/-Telegram-124A6A?style=for-the-badge&logo=Telegram&logoColor=73CEF0)
+![YouTube](https://img.shields.io/badge/-YouTube-124A6A?style=for-the-badge&logo=YouTube&logoColor=73CEF0)
 
 <!--
 **Shindos-Kopernik/Shindos-Kopernik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
