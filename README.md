@@ -1,4 +1,12 @@
-### Hi there 👋
+Header
+
+About me
+
+Latest YouTube video
+
+Languges and Tools
+
+Follow Me
 
 <!--
 **Shindos-Kopernik/Shindos-Kopernik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
