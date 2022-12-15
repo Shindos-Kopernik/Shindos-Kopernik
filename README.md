@@ -1,7 +1,7 @@
 ![Header](https://github.com/Shindos-Kopernik/Shindos-Kopernik/blob/main/assets/4482749.png)
 
 About me
-
+### I am a CCTV and computer network engineer. I am learning the Golang programming language.
 Latest YouTube video
 
 Languges and Tools
