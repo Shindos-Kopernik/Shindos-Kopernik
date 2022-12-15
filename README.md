@@ -13,9 +13,9 @@ Languages and Tools
 
 
 Follow Me
-![Telegram(https://img.shields.io/badge/-Telegram-124A6A?style=for-the-badge&logo=Telegram&logoColor=73CEF0)]
+[![Telegram](https://img.shields.io/badge/-Telegram-124A6A?style=for-the-badge&logo=Telegram&logoColor=73CEF0)]
 (https//t.me/V_Kopernik)
-![YouTube(https://img.shields.io/badge/-YouTube-124A6A?style=for-the-badge&logo=YouTube&logoColor=73CEF0)]
+[![YouTube](https://img.shields.io/badge/-YouTube-124A6A?style=for-the-badge&logo=YouTube&logoColor=73CEF0)]
 (https://www.youtube.com/channel/UCzagD00N0HMCoZL_sR-nXDQ)
 
 <!--
